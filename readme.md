@@ -20,9 +20,7 @@ This project combines web scraping, OCR, large language models (LLMs), and (upco
 
 > Implemented panel scraping, OCR reading, and LLaMA 3 script generation!
 
-```
-[Insert gif or image demo here if available]
-```
+https://github.com/user-attachments/assets/93050a8e-0c3c-4e8a-ac4d-8f1ad9a865e3
 
 ---
 
